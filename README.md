@@ -4,7 +4,7 @@ TicTacToebyOJ is a Java program that follows the basic rules of the known game T
 
 ## Installation
 
-Use the following link [pip](https://pip.pypa.io/en/stable/) download and execute as JAR by command line.
+Use the following link [pip](https://github.com/j0shu3/TicTacToe/raw/master/TicTacToebyOJ.jar) download and execute as JAR by command line.
 
 ```bash
 java -jar TicTacToebyOJ.jar
